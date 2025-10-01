@@ -1,13 +1,13 @@
 # Flipkart-Product-Dataset
 This is a real dataset collected from Ecommerce company Flipkart and Amazone. This dataset contain fashion related product details such as ID, Rating, Product-details and many more. This dataset is helpful for making prediction for upcoming sale discount. you can also predict the satisfaction of customer.
 
-# 🛍️ Flipkart Fashion Dataset Analysis
+# Flipkart Fashion Dataset Analysis
 
-## 📌 Project Overview
+##  Project Overview
 This project explores an **e-commerce dataset from Flipkart**.  
 It contains product details such as product ID, title, ratings, categories, price, and customer reviews.  
 
-### 🎯 Goals
+###  Goals
 - Explore product trends and customer satisfaction.  
 - Identify which categories perform better in terms of ratings.  
 - Analyze how factors like price and reviews impact satisfaction.  
@@ -15,7 +15,7 @@ It contains product details such as product ID, title, ratings, categories, pric
 
 ---
 
-## 📂 Dataset
+##  Dataset
 - Source: Flipkart dataset (downloaded from Kaggle)  
 - Key Columns:
   - **id**: Unique product identifier  
@@ -30,7 +30,7 @@ It contains product details such as product ID, title, ratings, categories, pric
 
 ---
 
-## 🛠️ Steps Performed
+##  Steps Performed
 1. **Data Cleaning**  
    - Checked for missing values and duplicates  
    - Standardized column names for easier handling  
@@ -50,7 +50,7 @@ It contains product details such as product ID, title, ratings, categories, pric
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 - Most products receive **4★ and 5★ ratings**, showing generally high satisfaction.  
 - Certain categories dominate in product count, but highly rated categories differ.  
 - Higher prices do not always mean better ratings.  
@@ -58,7 +58,7 @@ It contains product details such as product ID, title, ratings, categories, pric
 
 ---
 
-## 📚 Skills Learned
+## Skills Learned
 - Data Cleaning & Preprocessing (Pandas, NumPy)  
 - Exploratory Data Analysis (Matplotlib, Seaborn)  
 - Feature Engineering & Encoding (Scikit-learn)  
@@ -68,7 +68,7 @@ It contains product details such as product ID, title, ratings, categories, pric
 
 ---
 
-## 📌 How to Run
+##  How to Run
 1. Clone the repo:  
    ```bash
    git clone https://github.com/yourusername/flipkart-discount-prediction.git
