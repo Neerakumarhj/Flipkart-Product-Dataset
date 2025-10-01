@@ -71,4 +71,5 @@ It contains product details such as product ID, title, ratings, categories, pric
 ##  How to Run
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/yourusername/flipkart-discount-prediction.git
+[   git clone https://github.com/yourusername/flipkart-discount-prediction.git
+](https://github.com/Neerakumarhj/Flipkart-Product-Dataset.git)
